@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/
+*.csv
+*.txt
+
+# System
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+
+# Trained models
+*.pkl
+
+

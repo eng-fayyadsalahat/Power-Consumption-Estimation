@@ -1,0 +1,5 @@
+[project]
+name = "power-consumption-estimation"
+version = "1.0.0"
+description = "Household power consumption estimation using machine learning"
+requires-python = ">=3.13"
